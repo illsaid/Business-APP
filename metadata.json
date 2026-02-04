@@ -1,0 +1,5 @@
+{
+  "name": "LA Business Pulse: Hollywood & West Hollywood",
+  "description": "An interactive map and analytics dashboard exploring businesses in zip codes 90046, 90068, and 90069 using LA City Open Data. Features real-time filtering, industry breakdown, and spatial clustering.",
+  "requestFramePermissions": []
+}
